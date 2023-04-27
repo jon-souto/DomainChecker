@@ -10,7 +10,7 @@ pip install tqdm
 # Ejemplo de uso
 Ejecuta el script
 ```bash
-python3 DomainChecker.py
+python DomainChecker.py
 ```
 Introduce el dominio
 ```bash
