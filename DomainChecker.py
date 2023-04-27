@@ -32,8 +32,6 @@ homoglyph_domains = homoglyphs(domain)
 # Obtener los posibles dominios parecidos
 typo_domains = typosquatting(domain)
 
-# Obtener los dominios regionales
-
 # Crear una lista para almacenar los resultados
 results = []
 
