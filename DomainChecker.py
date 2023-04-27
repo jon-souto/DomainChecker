@@ -1,6 +1,5 @@
 import dns.resolver
 import string
-import urllib.request
 from tabulate import tabulate
 from tqdm import tqdm  # Importar tqdm para la barra de progreso
 
